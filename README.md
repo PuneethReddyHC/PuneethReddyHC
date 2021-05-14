@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm <b>Puneeth Reddy H C</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Bangalore, India </b>.</p>
+<p>Welcome to my page! </br> I'm <b>Puneeth Reddy H C</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/128/256/256672.png" width="13"/> <b>Bangalore, India </b>.</p>
 <h3>Things I code with</h3>
 <p>
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -26,44 +26,25 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
 </p>
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-    </tr>
-	  <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-     
-    </tr>
-  </tbody>
-</table>
+<h1>Projects We develop</h1>
+
+<ul>
+	<li><b>Vue JS</b></li>
+	<li><b>Nuxt JS</b></li>
+	<li><b>Python</b></li>
+	<li><b>Django</b></li>
+	<li><b>PHP and MYSQL</b></li>
+	<li><b>Angular JS</b></li>
+	<li><b>React JS</b></li>
+	<li><b>AI/ML</b></li>
+</ul>
+<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+
 <h3>My latest posts</h3>
 <ul>
   
 <h3>till </h3>
-<p>
 
-</p>
-<p>
-</p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Sunday, 11 April, 17:07 CEST<br /><a href="https://medium.com/@PuneethReddyHC">Create your own here!</a></p>
 <p align="center"><img src="https://github.com/PuneethReddyHC/PuneethReddyHC/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/></p>
 
