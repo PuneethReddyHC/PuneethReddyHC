@@ -1,3 +1,13 @@
+<br/>
+<a href="https://twitter.com/puneeth951">
+  <img align="left" alt="PuneethReddyHC | Twitter" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/PuneethReddyHC/">
+  <img align="left" alt="PuneethReddyHC LinkdeIN" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.puneeth)
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
@@ -38,12 +48,17 @@
 	<li><b>React JS</b></li>
 	<li><b>AI/ML</b></li>
 </ul>
-<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
-<h3>My latest posts</h3>
+<h2>Deployment Support</h2>
 <ul>
-  
-<h3>till </h3>
+	<li><b>Heroku</b></li>
+	<li><b>AWS(EC2, S3, Lightsail)</b></li>
+	<li><b>Azure</b></li>
+	<li><b>OR Any Cloud</b></li>
+	<li><b>For More vist <a href="http://projectswall.com/">Projects Wall</a></b></li>
+</ul>
+
+<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
 
 <p align="center"><img src="https://github.com/PuneethReddyHC/PuneethReddyHC/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/></p>
