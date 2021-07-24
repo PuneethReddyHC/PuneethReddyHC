@@ -36,26 +36,55 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   
 </p>
-<h1>Projects We develop</h1>
-
+<table>
+	<tr>
+		<th><h1>Projects We develop</h1></th>
+		<th><h1>Deployment Support</h1></th>
+		<th><h1>API Integrations</h1></th>
+	</tr>
+	<tr>
+		<td><b>Vue JS</b></td>
+		<td><b>Heroku</b></td>
+		<td>Any API's</td>
+	</tr>
+	<tr>
+		<td><b>Nuxt JS</b></td>
+		<td><b>AWS(EC2, S3, Lightsail) any service</b></td>
+		<td>At Any CodeBase</td>
+	</tr>
+	<tr>
+		<td><b>Python</b></td>
+		<td><b>Azure</b></td>
+		<td><a href="http://projectswall.com/">To know more vist Projects Wall</a></td>
+	</tr>
+	<tr>
+		<td><b>Django</b></td>
+		<td><b>Google Cloud</b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><b>PHP and MYSQL</b></td>
+		<td><b>OR Any Cloud</b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><b>Angular JS</b></td>
+		<td><b>ANY Hosting</b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><b>React JS</b></td>
+		<td><b></b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><b>AI/ML</b></td>
+		<td><b></b></td>
+		<td></td>
+	</tr>
+</table>
 <ul>
-	<li><b>Vue JS</b></li>
-	<li><b>Nuxt JS</b></li>
-	<li><b>Python</b></li>
-	<li><b>Django</b></li>
-	<li><b>PHP and MYSQL</b></li>
-	<li><b>Angular JS</b></li>
-	<li><b>React JS</b></li>
-	<li><b>AI/ML</b></li>
-</ul>
-
-<h2>Deployment Support</h2>
-<ul>
-	<li><b>Heroku</b></li>
-	<li><b>AWS(EC2, S3, Lightsail)</b></li>
-	<li><b>Azure</b></li>
-	<li><b>OR Any Cloud</b></li>
-	<li><b>For More vist <a href="http://projectswall.com/">Projects Wall</a></b></li>
+ <a href="http://projectswall.com/">Projects Wall</a>
 </ul>
 
 <h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
