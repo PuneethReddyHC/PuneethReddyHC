@@ -87,7 +87,7 @@
  <a href="http://projectswall.com/">Projects Wall</a>
 </ul>
 
-<h2> Projects with installation support and code explaination for Premium contact phone: +919535688928 gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+<h2> Projects with installation support and code explaination for Premium contact via gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
 
 
 <p align="center"><img src="https://github.com/PuneethReddyHC/PuneethReddyHC/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/></p>
