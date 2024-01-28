@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneethreddyhc" height="30" width="40" /></a>
+<a href="https://twitter.com/@puneeth951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneethreddyhc" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneethreddyhc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="puneethreddyhc" height="30" width="40" /></a>
 </p>
