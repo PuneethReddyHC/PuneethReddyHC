@@ -1,94 +1,94 @@
-<br/>
-<a href="https://twitter.com/puneeth951">
-  <img align="left" alt="PuneethReddyHC | Twitter" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/PuneethReddyHC/">
-  <img align="left" alt="PuneethReddyHC LinkdeIN" width="22px" style="color:blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<h1 align="center">Hi 👋, I'm Puneeth Reddy H C</h1>
+<h3 align="center">Full Stack Developer</h3>
+<h5>Experienced software engineer with a strong proficiency in building full-stack web applications. Skilled in utilizing top frameworks such as React.js, Django, and Node.js, as well as possessing proficiency in Flutter. Demonstrated expertise in cloud deployments, particularly with Azure, API integrations, version control, and Dockerizing. Additionally, experienced in architecting cloud environments for full-stack web applications.</h5>
 
-![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.puneeth)
+- 📫 How to reach me **puneethreddy951@gmail.com**
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
-<p>Welcome to my page! </br> I'm <b>Puneeth Reddy H C</b>, Fullstack developer from <img src="https://image.flaticon.com/icons/png/128/256/256672.png" width="13"/> <b>Bangalore, India </b>.</p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneethreddyhc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneethreddyhc" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="puneethreddyhc" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethreddyhc&label=Profile%20views&color=0e75b6&style=flat" alt="puneethreddyhc" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneethreddyhc" alt="puneethreddyhc" /></a> </p>
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
 <table>
-	<tr>
-		<th><h1>Projects We develop</h1></th>
-		<th><h1>Deployment Support</h1></th>
-		<th><h1>API Integrations</h1></th>
-	</tr>
-	<tr>
-		<td><b>Vue JS</b></td>
-		<td><b>Heroku</b></td>
-		<td>Any API's</td>
-	</tr>
-	<tr>
-		<td><b>Nuxt JS</b></td>
-		<td><b>AWS(EC2, S3, Lightsail) any service</b></td>
-		<td>At Any CodeBase</td>
-	</tr>
-	<tr>
-		<td><b>Python</b></td>
-		<td><b>Azure</b></td>
-		<td><a href="http://projectswall.com/">To know more vist Projects Wall</a></td>
-	</tr>
-	<tr>
-		<td><b>Django</b></td>
-		<td><b>Google Cloud</b></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td><b>PHP and MYSQL</b></td>
-		<td><b>OR Any Cloud</b></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td><b>Angular JS</b></td>
-		<td><b>ANY Hosting</b></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td><b>React JS</b></td>
-		<td><b></b></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td><b>AI/ML</b></td>
-		<td><b></b></td>
-		<td></td>
-	</tr>
+  <tr>
+    <th>Programming Languages</th>
+    <td>Python, JavaScript, TypeScript, HTML5, CSS</td>
+  </tr>
+  <tr>
+    <th>Front-end Frameworks/Libraries</th>
+    <td>React, Next.js</td>
+  </tr>
+  <tr>
+    <th>Back-end Frameworks/Libraries</th>
+    <td>Django, NodeJS, Nest.js</td>
+  </tr>
+  <tr>
+    <th>Other Technologies/Tools</th>
+    <td>Docker, Git, Azure DevOps (YAML and classic pipelines)</td>
+  </tr>
+  <tr>
+    <th>Database Languages</th>
+    <td>MongoDB, SQL</td>
+  </tr>
+  <tr>
+    <th>Cloud Platforms</th>
+    <td>Microsoft Azure (App Service, Virtual Machine, Function App, Cosmos DB, Storage Account, AAD, Cognitive Services, IoT Hub, ACR, Stream Analytics, Media Service, TSI, Digital Twins... etc)</td>
+  </tr>
 </table>
+
+<h1>Work Experience</h1>
+
+<h2>Software Engineer</h2>
+<p><strong>Terawe Corporation, Bangalore</strong><br>
+  <em>September 2021 – Present</em></p>
+
 <ul>
- <a href="http://projectswall.com/">Projects Wall</a>
+  <li>Built web projects from scratch using React, Node.js, and Django, integrating with various Azure services to showcase Azure capabilities to clients.</li>
+  
+  <li>Utilized the MUI component library to create responsive designs aligned with UX specifications, delivering visually appealing and user-friendly interfaces.</li>
+  
+  <li>Proficient in managing state in React applications with Redux, optimizing complex data flows for efficient application performance.</li>
+  
+  <li>Designed and implemented Azure cloud architectures, ensuring scalability, reliability, and security for web application deployments. Leveraged Azure FHIR to enable interoperability and compliance with healthcare industry standards.</li>
+  
+  <li>Developed API endpoints using Node.js and Django, following industry standards and best practices to ensure robust and secure communication between front-end and back-end components.</li>
+  
+  <li>Created Azure DevOps pipelines for streamlined deployment of web applications on Azure App Services and Functions Apps, automating release processes.</li>
+  
+  <li>Proficient in working with various Azure services, including App Service, Function App, Cosmos DB (MongoDB), Storage Accounts, Azure Active Directory (AAD), Virtual Machines, Stream Analytics, Azure Container Registry (ACR), IoT Hub, Time Series Insights, Digital Twins, Cognitive Services, Azure Media Service, and Azure FHIR.</li>
+  
+  <li>Applied Azure services to diverse industry use cases such as retail, manufacturing (windmill), healthcare, and electric vehicle charging, leveraging their functionalities to meet specific project requirements.</li>
 </ul>
 
-<h2> Projects with installation support and code explaination for Premium contact via gmail: puneethreddy951@gmail.com or visit :<a href="http://www.projectswall.com/">Projects Wall</a></h2>
+<h2>Junior Software Engineer</h2>
+<p><strong>Haloocom, Bangalore</strong><br>
+  <em>February 2021 – September 2021</em></p>
 
+<ul>
+  <li>Integrated Azure cognitive services for real-time speech-to-text conversion of call recordings in a call center environment, enhancing data analysis capabilities.</li>
 
-<p align="center"><img src="https://github.com/PuneethReddyHC/PuneethReddyHC/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/PuneethReddyHC/PuneethReddyHC?style=flat-square&labelColor=343b41"/></p>
+  <li>Enhanced user experience by customizing the UI using React. Integrated the UI with a MySQL database through Django, ensuring seamless data management and improving overall functionality.</li>
+
+  <li>Created a voice bot using Asterisk VoIP, AGI, Google Dialogflow, and GCP APIs, automating call interactions and providing a seamless customer experience.</li>
+
+  <li>Integrated multiple APIs (WhatsApp, LeadSquared, SMS, mail services) into existing call center and CRM applications, optimizing communication channels and enabling efficient customer engagement.</li>
+</ul>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/puneethreddyhc"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="puneethreddyhc" /></a><a href="https://ko-fi.com/puneethreddyhc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="puneethreddyhc" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethreddyhc&show_icons=true&locale=en&layout=compact" alt="puneethreddyhc" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethreddyhc&show_icons=true&locale=en" alt="puneethreddyhc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethreddyhc&" alt="puneethreddyhc" /></p>
 
