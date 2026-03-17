@@ -1,172 +1,133 @@
-<h1 align="center">Hi 👋, I'm Puneeth Reddy H C</h1>
-<h3 align="center">Data Scientist · ML Engineer · AI/Forecasting Specialist</h3>
+# Hi, I'm Puneeth Reddy H C 👋
 
-<h5 align="center">
-Data Scientist and ML Engineer with 4+ years of experience building and deploying machine learning models across energy markets, industrial IoT, and NLP/speech domains. Specialized in time-series forecasting, predictive fault detection, stochastic optimization, and deep learning. Currently building real-time BESS bid optimization and forecasting systems at Fluence Energy for AEMO NEM, MISO, CAISO & ERCOT markets.
-</h5>
+### Full Stack Software Engineer | Energy Platforms
+
+Full Stack Engineer with 5+ years of experience building production-grade energy market platforms, real-time IoT dashboards, and asset management tools. Currently at **Fluence Energy** building the Mosaic BESS bid optimization platform — operator dashboards, backend APIs, and cross-team integrations across AEMO NEM, CAISO, ERCOT, and MISO markets.
+
+**Core stack:** React.js / TypeScript (frontend) · Python / Django (backend) · Azure Cloud
 
 <br/>
 
-- 🔭 Currently working on **real-time ML price forecasting & BESS bid optimization at Fluence Energy (AEMO NEM, MISO)**
-- 🌱 Deep expertise in **Time-Series Forecasting, LSTM, XGBoost, Stochastic Optimization, Anomaly Detection**
-- 🤝 Open to **Data Science, ML Engineering, and AI/Forecasting roles**
+- 🔋 Currently building **real-time operator dashboards** for battery energy storage bid optimization at Fluence Energy
+- ⚡ Working across **Mosaic, NISPERA & Fluence OS** teams — frontend views, shared component libraries, and backend integrations
+- 🌬️ Previously built a **wind farm monitoring platform** from scratch (React + Django + Azure IoT)
+- 🛠️ I ship **reusable React component libraries**, **D3.js data visualizations**, and **Django REST APIs** in production
 - 📫 Reach me at **puneethreddy951@gmail.com**
-- ⚡ Fun fact: My models run every **5 minutes** to optimize battery bidding in live electricity markets!
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@puneeth951" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="puneethreddyhc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="puneethreddyhc" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/puneethreddyhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="puneethreddyhc" height="30" width="40" /></a>
+### Connect with me
+
+<a href="https://linkedin.com/in/puneethreddyhc" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/@puneeth951" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/puneethreddyhc" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+
+![](https://komarev.com/ghpvc/?username=puneethreddyhc&label=Profile%20views&color=0e6655&style=flat)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=puneethreddyhc&theme=algolia&no-frame=true&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend (Primary)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+
+### Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+### Infrastructure & Data
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## ⚡ What I Build at Fluence Energy
+
+```
+Mosaic BESS Bid Optimization Platform — AEMO NEM, MISO, CAISO, ERCOT
+```
+
+**Armada Application (Frontend + Backend)**
+- React.js operator dashboards with MUI, Redux, and custom SVG/D3.js visualizations
+- Live bid monitoring, dispatch schedules, battery state-of-charge, and forecast display widgets
+- Reusable component library: Virtual Tolls interface, market config panels, alert views — all with Vitest tests
+- Python/Django backend: bid configuration APIs, market data ingestion, operator alert systems
+- MISO market expansion: LMP node maps, DART spread dashboards, ESR config forms
+
+**Cross-Team Integration — NISPERA & Fluence OS (FOS)**
+- Integrated frontend views surfacing NISPERA battery health metrics and degradation trends inside Mosaic
+- FOS fault detection UI: anomaly heatmaps, cell-level diagnostic drill-downs, sensor correlation plots
+- Shared React component library consumed across Mosaic + NISPERA teams
+- Backend microservices aggregating Grid Stack Battery Module telemetry (voltage, temp, SOC, impedance)
+
+---
+
+## 🌬️ Previous: Wind Farm Monitoring Platform @ Terawe
+
+```
+Real-time IoT monitoring for enterprise wind energy operators
+```
+
+- Built from scratch: **React.js** frontend + **Django REST Framework** backend
+- Interactive dashboards: turbine sensor data, alert timelines, power generation analytics with D3.js and React Charts
+- Azure IoT Hub → Stream Analytics → Time Series Insights pipeline from SCADA systems
+- Django APIs: sensor ingestion, trend queries, alert CRUD, RBAC — all Swagger-documented
+- CI/CD with Azure DevOps YAML + Docker for zero-downtime deployments
+
+---
+
+## 🚀 Notable Open-Source Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [**Tomato-Price-Prediction**](https://github.com/PuneethReddyHC/Tomato-Price-Prediction) | Python, LightGBM, XGBoost | District-wise daily tomato price forecasting — 10 data sources, 150+ ML features, multi-horizon predictions for 17 Karnataka districts |
+| [**leaf-diseases-predition**](https://github.com/PuneethReddyHC/leaf-diseases-predition) ⭐20 | PyTorch, TensorFlow, Keras, FastAI | Multi-model deep learning benchmark for plant disease classification across 4 frameworks |
+| [**online-shopping-system-advanced**](https://github.com/PuneethReddyHC/online-shopping-system-advanced) ⭐448 | PHP, MySQL | Full-featured e-commerce platform with advanced admin panel |
+| [**event-management**](https://github.com/PuneethReddyHC/event-management) ⭐263 | PHP | College event registration and management system |
+
+---
+
+## 🏆 Awards
+
+**Excellence Award (2022 & 2023)** — Terawe Corporation
+> Recognized for outstanding performance and exceptional contributions to energy platform and IoT client delivery across consecutive years.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethreddyhc&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puneethreddyhc&label=Profile%20views&color=0e75b6&style=flat" alt="puneethreddyhc" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=puneethreddyhc&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puneethreddyhc" alt="puneethreddyhc" /></a> </p>
-
----
-
-<h2 align="left">🧠 What I Work On</h2>
-
-<table>
-  <tr>
-    <td><b>⚡ Energy Market Forecasting</b></td>
-    <td>Real-time LMP & DART spread prediction for BESS bid optimization (AEMO NEM, MISO, CAISO, ERCOT) — 5-min interval ML pipelines in production</td>
-  </tr>
-  <tr>
-    <td><b>🔋 Battery Fault Detection</b></td>
-    <td>Cross-functional analytics on Grid Stack Battery Module sensor data for predictive maintenance (Fluence x NISPERA x FOS)</td>
-  </tr>
-  <tr>
-    <td><b>🌬️ Wind Turbine Health Prediction</b></td>
-    <td>Multi-sensor fault prediction & RUL estimation for wind farm asset management using LSTM, Random Forest, Azure IoT + Digital Twins</td>
-  </tr>
-  <tr>
-    <td><b>🎙️ Speech NLP & IVR Automation</b></td>
-    <td>STT/TTS pipelines on call recordings, intent/sentiment extraction, automated IVR conversational agents using Azure Cognitive Services</td>
-  </tr>
-</table>
-
----
-
-<h2 align="left">🛠️ Tech Stack</h2>
-
-<table>
-  <tr>
-    <th>ML / Deep Learning</th>
-    <td>Scikit-learn, XGBoost, LightGBM, LSTM, Random Forest, Gradient Boosting, Anomaly Detection</td>
-  </tr>
-  <tr>
-    <th>Forecasting & Optimization</th>
-    <td>Time-Series Forecasting, Feature Engineering, Stochastic Optimization, ARIMA, Prophet, LMP/DART Modeling</td>
-  </tr>
-  <tr>
-    <th>NLP / Speech</th>
-    <td>Azure Cognitive Services (STT/TTS), Speech Recognition, Sentiment Analysis, IVR Automation, Dialogflow</td>
-  </tr>
-  <tr>
-    <th>Data & Analytics</th>
-    <td>Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter, SQL, EDA, Statistical Modeling</td>
-  </tr>
-  <tr>
-    <th>Cloud / MLOps</th>
-    <td>Azure (IoT Hub, Digital Twins, Stream Analytics, Functions, ML, Bot Services), Docker, CI/CD, Azure DevOps</td>
-  </tr>
-  <tr>
-    <th>Databases</th>
-    <td>PostgreSQL, MongoDB, Redis, Azure Cosmos DB, Time Series Insights</td>
-  </tr>
-  <tr>
-    <th>Programming</th>
-    <td>Python (primary), SQL, JavaScript, TypeScript</td>
-  </tr>
-  <tr>
-    <th>Energy Domain</th>
-    <td>AEMO NEM, MISO, CAISO, ERCOT, JEPX, BESS Optimization, Ancillary Services, Grid Stack Analytics</td>
-  </tr>
-</table>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puneethreddyhc&theme=algolia" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="left">💼 Work Experience</h2>
+### Support
 
-<h3>🔋 Data Scientist / ML Engineer — Fluence Energy, Bangalore</h3>
-<p><em>Feb 2025 – Present</em></p>
-
-**Mosaic BESS Bid Optimization Platform — AEMO NEM, MISO, CAISO, ERCOT**
-- Built and enhanced production ML price forecasting models for **real-time 5-minute interval bidding** on Australia's AEMO NEM market, powering live battery dispatch decisions
-- Designed time-series pipelines (LSTM, XGBoost) for LMP & DART spread prediction; outputs feed directly into stochastic optimization for BESS charge/discharge strategies
-- Led ML model development for **MISO market expansion** — new feature engineering, PRA revenue modeling, LRZ-level ancillary service co-optimization
-- Cross-collaborated with **NISPERA** (asset management) and **FOS** (Fluence OS) teams on **fault detection analytics** for Grid Stack Battery Modules — analyzing cell-level voltage, temperature & SoC telemetry for anomaly detection
-
----
-
-<h3>🌬️ Data Scientist — Terawe Corporation, Bangalore</h3>
-<p><em>Sept 2021 – Jan 2025</em></p>
-
-**Microsoft Client — Wind Turbine Asset Fault Prediction (IoT / Industrial ML)**
-- Built end-to-end **predictive fault detection model** for wind farm management using simulated multi-sensor data (vibration, RPM, temperature, power output, pitch angle, hydraulic pressure)
-- Full ML lifecycle: Azure IoT Hub ingestion → Stream Analytics → feature engineering (rolling stats, FFT, cross-sensor correlations) → LSTM / RF / GBM training → fault classification & RUL estimation
-- Integrated **Azure Digital Twins** + Time Series Insights for real-time asset state representation and predictive maintenance alerting
-
-**eBay Client — Message Studio (Full Stack)**
-- Built scalable React.js / Next.js / Node.js / PostgreSQL platform serving millions of email template operations for eBay
-
----
-
-<h3>🎙️ Junior ML Engineer — Haloocom, Bangalore</h3>
-<p><em>Feb 2021 – Sept 2021</em></p>
-
-- Built **Speech-to-Text & Text-to-Speech pipelines** on real call recordings using Azure Cognitive Services; NLP layer for intent/entity/sentiment extraction enabling automated IVR routing
-- Developed **Azure Bot Services** conversational agents for end-to-end IVR automation with multi-turn dialogue management
-- Created voice bot using Asterisk VoIP, AGI, Google Dialogflow & GCP APIs
-
----
-
-<h2 align="left">🚀 Notable Projects</h2>
-
-| Project | Description |
-|---------|-------------|
-| **AgriConnect** | Time-series ML price forecasting system trained on 1.36M rows of agricultural market data; ARIMA/LSTM hybrid with cross-validation |
-| **GramaSuraksha** | WiFi CSI sensing platform with ESP32 + LSTM for warehouse intrusion detection & health monitoring from raw radio signals |
-| **PublicBook** | WhatsApp AI agent with Kannada NLP for rural citizens to query government schemes and live market prices |
-
----
-
-<h2 align="left">🏆 Awards</h2>
-
-- 🥇 **Excellence Award 2022 & 2023** — Terawe Corporation, for outstanding contributions to client delivery
-
----
-
-<h3 align="left">Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/puneethreddyhc"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="puneethreddyhc" /></a>
-<a href="https://ko-fi.com/puneethreddyhc"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="puneethreddyhc" /></a>
-</p>
-
-<br/><br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=puneethreddyhc&show_icons=true&locale=en&layout=compact" alt="puneethreddyhc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=puneethreddyhc&show_icons=true&locale=en" alt="puneethreddyhc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puneethreddyhc&" alt="puneethreddyhc" /></p>
+<a href="https://www.buymeacoffee.com/puneethreddyhc" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" /></a>
